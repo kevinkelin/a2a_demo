@@ -11,7 +11,10 @@ dependencies = [
 ]
 
 [tool.uv.workspace]
-members = ["adk_starter"]
+members = [
+    "adk_starter",
+ "adk_tool",
+]
 
 [[tool.uv.index]]
 url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple"
