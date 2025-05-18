@@ -13,7 +13,8 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "adk_starter",
- "adk_tool",
+    "adk_tool",
+    "adk_multi_agent",
 ]
 
 [[tool.uv.index]]
