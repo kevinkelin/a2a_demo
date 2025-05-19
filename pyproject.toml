@@ -14,7 +14,7 @@ dependencies = [
 members = [
     "adk_starter",
     "adk_tool",
-    "adk_multi_agent",
+    "adk_multi_agent", "adk_loop_agent",
 ]
 
 [[tool.uv.index]]
